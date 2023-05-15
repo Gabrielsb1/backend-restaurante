@@ -1,0 +1,1 @@
+INSERT INTO tb_food (title, urlimg, price) VALUES ('Feijoada', 'https://cdn.panelinha.com.br/receita/1588270905274-39_Panelinha_12_02_200635.jpg', 20);
