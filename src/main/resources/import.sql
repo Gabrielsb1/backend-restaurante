@@ -1,1 +1,7 @@
-INSERT INTO tb_food (title, urlimg, price) VALUES ('Feijoada', 'https://cdn.panelinha.com.br/receita/1588270905274-39_Panelinha_12_02_200635.jpg', 20);
+INSERT INTO tb_food (title, urlimg, price) VALUES ('Galinha Mineira', 'https://raw.githubusercontent.com/Gabrielsb1/frontend-restaurante/main/src/components/img/galinha%20mineira.png', 80);
+INSERT INTO tb_food (title, urlimg, price) VALUES ('Baião de dois', 'https://raw.githubusercontent.com/Gabrielsb1/frontend-restaurante/main/src/components/img/bai%C3%A3o%20de%20dois.png', 30);
+INSERT INTO tb_food (title, urlimg, price) VALUES ('Arroz Carreteiro', 'https://raw.githubusercontent.com/Gabrielsb1/frontend-restaurante/main/src/components/img/arroz%20carreteiro.png', 30);
+INSERT INTO tb_food (title, urlimg, price) VALUES ('Moqueca Capixaba', 'https://github.com/Gabrielsb1/frontend-restaurante/blob/main/src/components/img/moqueca%20capixaba.png?raw=true', 50);
+INSERT INTO tb_food (title, urlimg, price) VALUES ('Picanha', 'https://www.sabornamesa.com.br/media/k2/items/cache/431b945f5e067c1db39db74162af6e1c_XL.jpg', 90);
+INSERT INTO tb_food (title, urlimg, price) VALUES ('Feijoada', 'https://cdn.panelinha.com.br/receita/1588270905274-39_Panelinha_12_02_200635.jpg', 80);
+INSERT INTO tb_food (title, urlimg, price) VALUES ('Caldo de Mocotó', 'https://www.receiteria.com.br/wp-content/uploads/caldo-de-mocoto-13.jpeg', 40);
